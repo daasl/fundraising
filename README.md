@@ -1,4 +1,4 @@
-# fundraising
+# Fundraising
 This repository holds the fundraising assets for dAasl.
 ### Asset List:
 * Pitch Deck
