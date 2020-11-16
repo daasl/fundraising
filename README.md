@@ -4,4 +4,4 @@ This repository holds the fundraising assets for dAasl.
 * Pitch Deck
 * One-Pager
 * Cash Flow Analysis & Financial Model
-* WhitePaper
+* Whitepaper
