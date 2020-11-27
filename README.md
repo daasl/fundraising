@@ -1,7 +1,6 @@
 # Fundraising
 This repository holds the fundraising assets for DAASL.
 ### Asset List:
-* Pitch Deck
+* Pitch Deck with Cash Flow Analysis & Financial Model
 * One-Pager
-* Cash Flow Analysis & Financial Model
 * Whitepaper
